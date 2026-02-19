@@ -13,4 +13,4 @@ pkg install imagemagick -y
 npm install
 
 echo "✅ Installation complete!"
-echo "Run: bash broken.sh"
+echo "Run: node pair.js"
